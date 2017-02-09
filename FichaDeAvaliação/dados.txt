@@ -1,0 +1,8 @@
+Coordenada X - 1,1
+Coordenada Y - 1,1
+Distância: 0.0
+
+Coordenada X - 4,3
+Coordenada Y - 2,1
+Distância: 1.4142135623730951
+
